@@ -11,3 +11,6 @@ Display: Shows the image with rectangles using cv2_imshow.
 User Interaction: Waits for a key press to close the image window.
 Cleanup: Closes any open OpenCV windows.
 Overall, this code effectively detects and visualizes human faces in a given image using OpenCV's pre-trained model and computer vision techniques.
+
+# Acknowledgment:
+This section of code utilizes techniques learned during the Women and AI Workshop organized by the Learning Links Foundation.
